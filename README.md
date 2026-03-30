@@ -31,20 +31,20 @@ MLOps, GenAI pipelines, and agentic AI systems.
 
 ## 🚀 Projects I'm Proud Of
 
-**🔍 RAG-Based YouTube Video Summarizer**
+**🔍 RAG-Based YouTube Video Summarizer:**
 Ask questions, get answers — directly from YouTube video content.
 Built with LangChain, vector embeddings, and a FastAPI backend.
 
-**🤖 LangGraph ReAct Weather & Research Agent**
+**🤖 LangGraph ReAct Weather & Research Agent:**
 An agentic AI system that reasons, plans, and uses tools autonomously.
 Built using LangGraph's ReAct framework with multi-step tool calling.
 
 
-**⚙️ Automated ML Pipeline (FastAPI)**
+**⚙️ Automated ML Pipeline (FastAPI):**
 End-to-end pipeline — data preprocessing → multi-model training → 
-best model selection, all exposed via REST APIs.
+best model selection, all exposed via REST APIs. Also performed API testing via Postman and Swagger UI.
 
-**😶 Real-Time Image Classification & Emotion Detection**
+**😶 Real-Time Image Classification & Emotion Detection:**
 Live facial emotion recognition and image classification implemented with OpenCV and CNN models, for real-time computer vision inference.
  
 
