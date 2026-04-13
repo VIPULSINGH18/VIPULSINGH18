@@ -21,11 +21,11 @@ MLOps, GenAI pipelines, and agentic AI systems.
 **GenAI & Agentic AI**
 `LangChain` `LangGraph` `RAG Pipelines` `Vector Databases` `Agentic Workflows`
 
-**MLOps & Infra**
+**MLOps**
 `MLflow` `DVC` `DAGsHub` `Docker` `Kubernetes` `AWS`
 
 **Core Stack**
-`Python` `FastAPI` `SQL`
+`Python` `FastAPI` `SQL` `Linux`
 
 ---
 
