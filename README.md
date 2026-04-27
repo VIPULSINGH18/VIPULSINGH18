@@ -22,7 +22,7 @@ MLOps, GenAI pipelines, and agentic AI systems.
 `LangChain` `LangGraph` `RAG Pipelines` `Vector Databases` `Agentic Workflows`
 
 **MLOps**
-`MLflow` `DVC` `DAGsHub` `Docker` `Kubernetes` `AWS`
+`MLflow` `DVC` `DAGsHub` `Docker` `Kubernetes` `AWS` `CI/CD(Github Actions)`
 
 **Core Stack**
 `Python` `FastAPI` `SQL` `Linux`
