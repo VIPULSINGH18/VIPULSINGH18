@@ -45,7 +45,7 @@ End-to-end pipeline — data preprocessing → multi-model training →
 best model selection, all exposed via REST APIs. Also performed API testing via Postman and Swagger UI.
 
 **😶 Real-Time Image Classification & Emotion Detection:**
-Live facial emotion recognition and image classification implemented with OpenCV and CNN models, for real-time computer vision inference.
+Live facial emotion recognition and image classification implemented with OpenCV and CNN models, for real-time computer vision inference..
  
 
 
